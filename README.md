@@ -38,7 +38,7 @@ Connected Power BI to the three CSV files.
 
 Performed data cleaning steps: checked data types, renamed columns for clarity, and handled missing or error values.
 
-Merged the Accounts and Plant_Hierarchy tables into the Plant_FACT table to create a clean, denormalized table for analysis. (Or, if you built a Star Schema, describe that instead).
+Merged the Accounts and Plant_Hierarchy tables into the Plant_FACT table to create a clean, denormalized table for analysis.
 
 2) Data Modeling:
 
