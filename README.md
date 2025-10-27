@@ -2,6 +2,10 @@
 
 # Dashboard Preview:
 
+
+https://github.com/user-attachments/assets/ccd455ed-221f-4a05-88ab-a7252a0dcd75
+
+
 <img width="1745" height="815" alt="image" src="https://github.com/user-attachments/assets/a130430b-4bad-4952-8718-de0edeeef967" />
 
 # Project Overview:
