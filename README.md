@@ -2,9 +2,7 @@
 
 # Dashboard Preview:
 
-<img width="1462" height="816" alt="image" src="https://github.com/user-attachments/assets/770de3ad-201e-4345-ba58-673a5ba4937b" />
-
-<img width="537" height="655" alt="image" src="https://github.com/user-attachments/assets/d44f343e-c46f-4b35-a3a0-e9bb658015bf" />
+<img width="1745" height="815" alt="image" src="https://github.com/user-attachments/assets/a130430b-4bad-4952-8718-de0edeeef967" />
 
 # Project Overview:
 
